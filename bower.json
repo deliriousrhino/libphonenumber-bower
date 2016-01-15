@@ -1,0 +1,16 @@
+{
+  "name": "libphonenumber-bower",
+  "version": "0.0.0",
+  "authors": [
+    "Google DeliriousRhino"
+  ],
+  "description": "Include Googles libphonenumber js though bower",
+  "main": "libphonenumber.js",
+  "keywords": [
+    "libphonenumber",
+    "phone",
+    "numbers",
+    "google"
+  ],
+  "homepage": "https://github.com/googlei18n/libphonenumber",
+}
