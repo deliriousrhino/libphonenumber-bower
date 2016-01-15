@@ -6,11 +6,20 @@
   ],
   "description": "Include Googles libphonenumber js though bower",
   "main": "libphonenumber.js",
+  "moduleType": [],
   "keywords": [
     "libphonenumber",
     "phone",
     "numbers",
     "google"
   ],
+  "license": "MIT",
   "homepage": "https://github.com/googlei18n/libphonenumber",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
